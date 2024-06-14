@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">MentorConnect</string>
+    <string name="sign_up">Sign_up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="codehive_id">codeHive ID</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">REGISTER</string>
+    <string name="already_have_an_account_login">Already have an account?Login</string>
+    <string name="login">Login</string>
+    <string name="first_name_is_required">First Name is required</string>
+    <string name="last_name_is_required">Last Name is required</string>
+    <string name="email_is_required">Email is required</string>
+    <string name="codehive_id_is_required">CodeHive Id is required</string>
+    <string name="username_is_required">Username is required</string>
+    <string name="password_is_required">Password is required</string>
+    <string name="password_confirmation_is_required">Password confirmation is required</string>
+    <string name="password_and_password_confirmation_do_not_match">Password and password confirmation do not match</string>
 </resources>
